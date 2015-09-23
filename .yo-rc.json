@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Frontend Structure",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
